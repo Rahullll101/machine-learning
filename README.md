@@ -55,7 +55,7 @@ machine-learning/
 
 ##  Quick Start
 
-`ash
+`Bash
 # 1. Clone the repository
 git clone https://github.com/Rahullll101/machine-learning.git
 cd machine-learning
