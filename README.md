@@ -6,15 +6,15 @@ A comprehensive collection of machine learning implementations, tutorials, and l
 
 This repository serves as a complete learning hub for machine learning concepts, from fundamental algorithms to advanced techniques. Each module is designed to provide both theoretical understanding and practical implementation.
 
-##  Repository Structure
 
+
+### Repository Structure
+
+```
 machine-learning/
-│
 ├── README.md                      # Main repository overview
 ├── .gitignore                     # Git ignore configuration
-│
-└── Linear_Regression/            # Linear Regression module
-    │
+└── Linear_Regression/             # Linear Regression module
     ├── README.md                  # Linear Regression specific documentation
     ├── linearregression_day1.ipynb    # Basic linear regression tutorial
     ├── LR_day2.ipynb                  # Ice cream sales prediction
@@ -23,6 +23,8 @@ machine-learning/
     ├── Salary_dataset.csv            # Salary dataset
     ├── Student_Performance.csv       # Student performance dataset
     └── Theory materials/             # PDF resources and theoretical references
+```
+
 
 
 ##  Learning Modules
