@@ -8,20 +8,22 @@ This repository serves as a complete learning hub for machine learning concepts,
 
 ##  Repository Structure
 
-`
 machine-learning/
- README.md                      # This file - Main repository overview
- .gitignore                     # Git ignore configuration
- Linear_Regression/             # Linear regression module
-     README.md                  # Linear regression specific documentation
-     linearregression_day1.ipynb    # Basic linear regression tutorial
-     LR_day2.ipynb                  # Ice cream sales prediction
-     LR_day2_sal.ipynb             # Salary prediction model
-     LR_day2_stuPro.ipynb          # Student performance analysis
-     Salary_dataset.csv            # Salary dataset
-     Student_Performance.csv       # Student performance dataset
-     Theory materials               # PDF resources
-`
+│
+├── README.md                      # Main repository overview
+├── .gitignore                     # Git ignore configuration
+│
+└── Linear_Regression/            # Linear Regression module
+    │
+    ├── README.md                  # Linear Regression specific documentation
+    ├── linearregression_day1.ipynb    # Basic linear regression tutorial
+    ├── LR_day2.ipynb                  # Ice cream sales prediction
+    ├── LR_day2_sal.ipynb             # Salary prediction model
+    ├── LR_day2_stuPro.ipynb          # Student performance analysis
+    ├── Salary_dataset.csv            # Salary dataset
+    ├── Student_Performance.csv       # Student performance dataset
+    └── Theory materials/             # PDF resources and theoretical references
+
 
 ##  Learning Modules
 
